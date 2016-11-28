@@ -1,0 +1,8 @@
+{
+  "source": "\\\\ANITA-DESKTOP\\Users\\Anita Desktop\\Z Drive",
+  "destination": "C:\\Users\\Mike - CCAH\\Google Drive\\Z Drive Backup",
+  "blacklist": ["Certified Landlord Class", "Chase' Working Files", "EC plan commission", "J Drive", "Old Misc Files",
+                 "OSHA Training Video", "Pictures Drive.lnk"],
+  "last_backup": "Never",
+  "logs": "C:\\Users\\Mike - CCAH\\Desktop\\Mike\\Python Projects\\Google Drive Backup\\Logs"
+}
